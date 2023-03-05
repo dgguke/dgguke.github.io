@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://dgguke.github.io</id>
+    <title>德国骨科</title>
+    <updated>2023-03-05T15:56:50.619Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://dgguke.github.io"/>
+    <link rel="self" href="https://dgguke.github.io/atom.xml"/>
+    <subtitle>德国骨科</subtitle>
+    <logo>https://dgguke.github.io/images/avatar.png</logo>
+    <icon>https://dgguke.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 德国骨科</rights>
+    <entry>
+        <title type="html"><![CDATA[投稿说明]]></title>
+        <id>https://dgguke.github.io/post/hello/</id>
+        <link href="https://dgguke.github.io/post/hello/">
+        </link>
+        <updated>2014-12-31T16:00:00.000Z</updated>
+    </entry>
+</feed>
